@@ -122,8 +122,8 @@ menu:
   公告: /categories/公告/ || bell
   服务: /categories/服务/ || address-card
   资讯: /categories/资讯/ || align-left
-  标签: /tags/ || tags
-  分类: /categories/ || th
+#  标签: /tags/ || tags
+#  分类: /categories/ || th
   归档: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
